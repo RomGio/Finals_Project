@@ -1,0 +1,1 @@
+#make Triangles using only input 
